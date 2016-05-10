@@ -49,4 +49,4 @@ web site</a>:
 ## Dependencies
 
 * The text file, household_power_consumtion.txt needs to be in the working directory
-* the Package dplyr needs to be loaded  for the ReadConsumtionFile.R
+* the Package dplyr needs to be loaded  for the ReadConsumptionFile.R
